@@ -1,0 +1,8 @@
+{
+  "ssid": "",
+  "password": "",
+  "mqtt_host": "mqtt.hacklab",
+  "mqtt_port": 1883,
+  "ds18b20_topic_prefix": "sensor/g11/temperature",
+  "pir_topic": "sensor/g11/pir"
+}
